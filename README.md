@@ -15,8 +15,9 @@
 <img src="https://img.shields.io/badge/jupyter-F3631D.svg?&style=for-the-badge&logo=jupyter&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/anaconda-42B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/JAVA-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/-Java-red?&logo=Java" height="25"/>
 </p>
+
  
  <p align="center"> 
     <img src="https://github-readme-stats.vercel.app/api?username=juandavidalvarez9&show_icons=true&hide=contribs" alt="juandavidalvarez9" /> 
