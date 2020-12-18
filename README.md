@@ -4,7 +4,7 @@
 
 - 🔭 I am currently working in Telemetry at the GIT Masivo
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Data Science** and **Software Development**
 
 - 📫 How to reach me **juandavidalvarezgamez@gmail.com**
 
