@@ -2,9 +2,9 @@
 <h3 align="center">A passionate developer from Colombia <img src="https://image.flaticon.com/icons/svg/323/323299.svg" width="14"/> </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juandavidalvarez9" alt="juandavidalvarez9" /> </p>
 
-- 🔭 I am currently working in Data Analyst at the COMFICA Soluciones Integrales
+- 🔭 I am currently working in Statistics at the Tecnoquímicas
 
-- 🌱 I’m currently learning **Data Science** and **Software Development**
+- 🌱 Data Scientist · AI Engineer · NLP & LLMs
 
 - 📫 How to reach me **juandavidalvarezgamez@gmail.com**
 
