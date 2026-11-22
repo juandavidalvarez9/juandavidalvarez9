@@ -1,54 +1,33 @@
-<h1 align="center">Hi 👋, I'm Juan David Alvarez Gamez</h1>
-<h3 align="center">A passionate developer from Colombia <img src="https://image.flaticon.com/icons/svg/323/323299.svg" width="14"/> </h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=juandavidalvarez9" alt="juandavidalvarez9" /> </p>
+# Juan David Alvarez Gamez
 
-- 🔭 I am currently working in Statistics at the Tecnoquímicas
+Data Scientist · AI Engineer · NLP & LLMs, from Colombia.
 
-- 🌱 Data Scientist · AI Engineer · NLP & LLMs
+I build data and AI products: applied statistics, machine learning, NLP in Spanish and LLM applications.
 
-- 📫 How to reach me **juandavidalvarezgamez@gmail.com**
+- Currently working in Statistics at Tecnoquímicas
+- Publications: [Google Scholar](https://scholar.google.com/citations?user=FXcKy-IAAAAJ)
+- Contact: juandavidalvarezgamez@gmail.com
 
-<h4>Stack I work with</h4>
-<p align="center">
-<img src="https://img.shields.io/badge/-Java-red?&logo=Java" height="25"/>
-<img src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/jupyter-F3631D.svg?&style=for-the-badge&logo=jupyter&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/anaconda-42B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" height="25"/>
-</p>
+## Portfolio
 
- 
- <p align="center"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=juandavidalvarez9&show_icons=true&hide=contribs" alt="juandavidalvarez9" /> 
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=juandavidalvarez9&layout=compact" alt="juandavidalvarez9" />
- </p>
+I am rebuilding this profile as a portfolio of data and AI products built on public data. Each product is meant to be used, not just read, so it ships with:
 
-<!--
+- a reproducible data pipeline
+- tests and continuous integration
+- documentation and a runnable demo
+- a plain statement of what it does not do
 
-For ICON With Text
-    https://img.shields.io/badge/HereText-FF9800.svg?&style=for-the-badge&logo=HereIconName&logoColor=white
-    
-For Github Stats
-    https://github-readme-stats.vercel.app/api?username=HereUsername&show_icons=true
+Releases will be listed here as they ship.
 
-For Profile View
-    https://komarev.com/ghpvc/?username=HereUsername
+## Tools
 
-For Auto Generate
-    https://rahuldkjain.github.io/gh-profile-readme-generator/
+Python · R · SQL
 
-For County Flag ICOn
-    https://www.flaticon.com/
+## Earlier work
 
-For ICON Idea
-    https://simpleicons.org/
+Projects from 2020:
 
--->
-
-<!-- ![Visitor Count](https://profile-counter.glitch.me/juandavidalvarez9/count.svg) -->
-
-<p align="center">
- <img src="https://github-profile-trophy.vercel.app/?username=juandavidalvarez9&theme=flat&row=1" alt="juandavidalvarez9" />
-</p>
-
+- [Banco](https://github.com/juandavidalvarez9/Banco) and [banco_api](https://github.com/juandavidalvarez9/banco_api): Vue.js front end and FastAPI back end of a sample banking app
+- [BWT5_BusinessWork](https://github.com/juandavidalvarez9/BWT5_BusinessWork): document-management prototype (FastAPI, PostgreSQL)
+- [Project-RedFlixPro-App](https://github.com/juandavidalvarez9/Project-RedFlixPro-App): desktop user manager (Java, Spring Boot, MySQL)
+- [Modulos_Orca](https://github.com/juandavidalvarez9/Modulos_Orca): scripts that automate ORCA jobs on a Slurm cluster
