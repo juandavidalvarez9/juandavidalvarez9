@@ -25,7 +25,7 @@ Python · R · SQL
 
 ## Earlier work
 
-Training projects from 2020, kept as an archive:
+Projects from 2020:
 
 - [Banco](https://github.com/juandavidalvarez9/Banco) and [banco_api](https://github.com/juandavidalvarez9/banco_api): Vue.js front end and FastAPI back end of a sample banking app
 - [BWT5_BusinessWork](https://github.com/juandavidalvarez9/BWT5_BusinessWork): document-management prototype (FastAPI, PostgreSQL)
