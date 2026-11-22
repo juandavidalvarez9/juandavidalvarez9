@@ -27,7 +27,7 @@ Python · R · SQL
 
 Projects from 2020:
 
-- [Banco](https://github.com/juandavidalvarez9/Banco) and [banco_api](https://github.com/juandavidalvarez9/banco_api): Vue.js front end and FastAPI back end of a sample banking app
-- [BWT5_BusinessWork](https://github.com/juandavidalvarez9/BWT5_BusinessWork): document-management prototype (FastAPI, PostgreSQL)
+- [Banco](https://github.com/juandavidalvarez9/Banco) and [banco_api](https://github.com/juandavidalvarez9/banco_api): Vue 3 front end and FastAPI back end of a sample banking app, with tests and CI
+- [BWT5_BusinessWork](https://github.com/juandavidalvarez9/BWT5_BusinessWork): document management with expiry alerts (FastAPI, SQLAlchemy), with tests and CI
 - [Project-RedFlixPro-App](https://github.com/juandavidalvarez9/Project-RedFlixPro-App): desktop user manager (Java, Spring Boot, MySQL)
 - [Modulos_Orca](https://github.com/juandavidalvarez9/Modulos_Orca): scripts that automate ORCA jobs on a Slurm cluster
